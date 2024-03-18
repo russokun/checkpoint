@@ -1,0 +1,4 @@
+black
+red
+white
+rgb(187, 184, 184)
